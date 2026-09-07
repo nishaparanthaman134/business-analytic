@@ -1,1 +1,19 @@
 https://public.tableau.com/views/task7_17883281689680/barchart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+Scatter Plot Analysis
+
+For your dataset, the Scatter Plot uses:
+
+* **Columns (X-axis):** `WEEKLY HOURS`
+* **Rows (Y-axis):** `Monthly Sales K`
+* **Color:** `Department`
+* **Marks:** Circle
+* **Trend Line:** Linear
+
+Analysis
+The Scatter Plot shows the relationship between the number of projects completed and monthly sales. The points are widely scattered, indicating that there is **no strong relationship** between projects completed and monthly sales in this dataset. Employees completing a similar number of projects can have very different sales values. Therefore, monthly sales may also depend on other factors such as department, experience, salary, discounts, or individual performance.
+The calculated correlation between. Projects Completed and Monthly Sales K is approximately 0.03, which indicates a **very weak positive relationship**. 
+
+ Conclusion
+ The Scatter Plot indicates that completing more projects does not necessarily lead to higher monthly sales. The relationship is very weak, so the business should consider other factors such as department, experience, performance score, and customer-related factors when evaluating sales performance.
